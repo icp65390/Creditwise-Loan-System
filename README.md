@@ -1,11 +1,10 @@
----
 
 ## Author
 
 **Ishwor Chandra Paudyal**
 Data Analyst | Python Developer & ML Engineer
 
----
+
 # CreditWise – Loan Approval Prediction (End‑to‑End ML Project)
 
 > **Role Target:** Data Analyst | Junior Machine Learning Engineer
