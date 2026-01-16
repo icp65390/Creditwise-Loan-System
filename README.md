@@ -2,8 +2,8 @@
 
 ## Author
 
-**Ishwor C Paudyal**
-Data Analyst | Python & Machine Learning
+**Ishwor Chandra Paudyal**
+Data Analyst | Python Developer & ML Engineer
 
 ---
 # CreditWise – Loan Approval Prediction (End‑to‑End ML Project)
