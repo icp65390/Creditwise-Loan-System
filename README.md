@@ -69,7 +69,7 @@ This project follows a structured ML pipeline:
 CreditWise/
 │
 ├── credit_wise.ipynb        # End-to-end ML notebook
-├── loan_approval_data.csv  # Input dataset
+├── Data/ loan_approval_data.csv  # Input dataset
 ├── README.md               # Project documentation
 ```
 
