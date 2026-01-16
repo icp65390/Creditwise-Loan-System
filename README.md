@@ -5,8 +5,6 @@
 **Ishwor C Paudyal**
 Data Analyst | Python & Machine Learning
 
-GitHub: [https://github.com/icp65390](https://github.com/icp65390)
-
 ---
 # CreditWise – Loan Approval Prediction (End‑to‑End ML Project)
 
